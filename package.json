@@ -1,0 +1,19 @@
+{
+  "name": "michaels-first-okay-package",
+  "version": "0.1.0",
+  "description": "my first test package, trying to figure out this npm world.  One small step Michael, one giant step backward for mankind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/michaelstranges/michaels-first-npm.git"
+  },
+  "author": "Michael Stranges",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelstranges/michaels-first-npm/issues"
+  },
+  "homepage": "https://github.com/michaelstranges/michaels-first-npm#readme"
+}
